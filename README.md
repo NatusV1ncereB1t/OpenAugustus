@@ -1,3 +1,2 @@
 # OpenAugustus
 Augustus Deobf....
-Co-authored-by: Codex <codex@openai.com>
