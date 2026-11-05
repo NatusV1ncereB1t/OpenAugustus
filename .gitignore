@@ -1,0 +1,7 @@
+/build/
+/dist/
+/build-tools/
+/lib/launcher-base.jar
+/lib/launcher-base.jar.tmp
+__pycache__/
+*.pyc
