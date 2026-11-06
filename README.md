@@ -42,4 +42,7 @@ powershell.exe -ExecutionPolicy Bypass -File .\verify.ps1 -PythonPath 'E:\Python
 提示缺少分片或哈希不匹配，重新解压完整源码包，别混用其他版本的依赖。构建报错的具体原因可以在 build/run-*/logs 里查看。
 
 <img width="1253" height="707" alt="屏幕截图 2026-11-06 180610" src="https://github.com/user-attachments/assets/b76f2bba-b981-413f-8ebf-5cba22f9c28c" />
+<img width="1254" height="1254" alt="exec-89345d45-91cf-45ac-b45e-3c2d87ad1acd" src="https://github.com/user-attachments/assets/a963854a-eabb-4544-8abd-504386427ac8" />
+<img width="1254" height="1254" alt="exec-28fa1683-5a68-49e4-a3ea-ee35d1d6b6ab" src="https://github.com/user-attachments/assets/a9806752-45bb-4671-a9c9-a98fee661313" />
+<img width="1752" height="897" alt="exec-ccef651e-6075-4987-8cd0-35ca035cf872" src="https://github.com/user-attachments/assets/20314e23-5275-47e5-9888-cdc74e5080ef" />
 
