@@ -40,3 +40,6 @@ powershell.exe -ExecutionPolicy Bypass -File .\verify.ps1 -PythonPath 'E:\Python
 编译时内存不足，可以在 build.ps1 那条命令末尾加上 -Jobs 1。
 
 提示缺少分片或哈希不匹配，重新解压完整源码包，别混用其他版本的依赖。构建报错的具体原因可以在 build/run-*/logs 里查看。
+
+<img width="1253" height="707" alt="屏幕截图 2026-11-06 180610" src="https://github.com/user-attachments/assets/b76f2bba-b981-413f-8ebf-5cba22f9c28c" />
+
